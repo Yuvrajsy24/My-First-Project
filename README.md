@@ -1,4 +1,4 @@
-📩 SMS Spam Classifier using Machine Learning 📚 Overview
+📩 SMS Spam Classifier using Machine Learning 
 
 This project is a binary classification task that uses various machine learning algorithms to detect whether an SMS message is Spam or Ham (Not Spam). The data comes from the UCI SMS Spam Collection Dataset , a set of SMS messages tagged as spam or ham.
 
