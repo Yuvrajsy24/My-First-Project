@@ -4,7 +4,7 @@ This project is a binary classification task that uses various machine learning 
 
 🗂️ Dataset
 
-File: SMSSpamCollection.txt
+File:  < SMSSpamCollection.txt >
 
 Format: Tab-separated values with two columns:
 
